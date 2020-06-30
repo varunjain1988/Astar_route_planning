@@ -1,5 +1,5 @@
 # Astar_route_planning
-A C++ repository for Astar based route planning between start and goal location
+A C++ repository for Astar based route planning between start and goal location from the udacity c++ course
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
